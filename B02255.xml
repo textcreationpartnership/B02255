@@ -1,0 +1,261 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The godly mans request : or, Choice flowers gathered out of the Holy Scriptures, For the strengthning [sic] and support of weak and fainting souls in these times of trouble. / by I.C.</title>
+            <author>I.C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02255</idno>
+            <idno type="STC">Wing C49A</idno>
+            <idno type="STC">ESTC R173302</idno>
+            <idno type="EEBO-CITATION">47013630</idno>
+            <idno type="OCLC">ocm 47013630</idno>
+            <idno type="VID">174300</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02255)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174300)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2682:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The godly mans request : or, Choice flowers gathered out of the Holy Scriptures, For the strengthning [sic] and support of weak and fainting souls in these times of trouble. / by I.C.</title>
+                  <author>I.C.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>Fift [sic] edition with additions.</edition>
+               </editionStmt>
+               <extent>[4], 18, [1] p. : port.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Cole, T. Vere, J. Wright and J. Clark,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: tightly bound with some loss of text.</note>
+                  <note>Reproduction of original in: University of Glasgow Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. English --  Selections.</term>
+               <term>Bible --  Devotional use --  Great Britain --  17th century.</term>
+               <term>Bible --  Criticisms, interpretations, etc. --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:174300:1" rendition="simple:additions"/>
+            <p>THE Godly Mans <hi>Requeſt,</hi>
+            </p>
+            <figure/>
+            <p>LONDON, Printed for <hi>F. Cole, T. Vere, J. Wright</hi> and <hi>J. Clark,</hi> 1676.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:174300:2"/>
+            <pb facs="tcp:174300:2"/>
+            <p>THE Godly Mans <hi>Requeſt,</hi> OR, Choice Flowers gathered out of the Holy Scriptures, for the Strengthning and ſupport of weak and fain<g ref="char:EOLhyphen"/>ting Souls in theſe times of trouble.</p>
+            <q>
+               <bibl>Pſal. 9. v. 12.</bibl> Teach us O Lord to number our days, that we may apply our hearts to Wiſdome.</q>
+            <q>
+               <bibl>Iſa. 14. v. 6.</bibl> A voice ſaid cry, and he ſaid what ſhall I cry, all fl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh is graſs, v. 8. The graſs withe<g ref="char:EOLhyphen"/>reth, the flower fadeth, but the word of God ſhall ſtand for ever.</q>
+            <p>The Fift Edition with Additions. By <hi>I. C.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>F. Cole, T. Vere, J. Wright</hi> and <hi>J. Clark,</hi> 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:174300:3"/>
+            <pb n="1" facs="tcp:174300:3"/>
+            <head>The Godly mans Requeſt.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Pſal.</hi> 90. <hi>v.</hi> 12.</bibl> Teach us O Lord to number our days that we may apply our hearts to Wiſdome.</q>
+               <q>
+                  <bibl>
+                     <hi>Iſaiah</hi> 40. <hi>v.</hi> 6.</bibl> A voice ſaid cry, and he ſaid what ſhall I cry, all fleſh is graſs, and v. 8. the graſs withereth, the flower fadeth, but the Word of our God ſhall ſtand for ever.</q>
+            </epigraph>
+            <p>THis <hi>Pſalm</hi> was compiled by <hi>Moſes</hi> as you may ſeé by the Title at what time the ſpies returned from the Land of <hi>Canaan,</hi> and God for the murmuring of the people pronounced that all which were above twenty years old ſhould die in the wilderneſs, except <hi>Calib</hi> and <hi>Jo<g ref="char:EOLhyphen"/>ſhua</hi> that encouraged their brethren to go into <hi>Canaan,</hi> now when <hi>Moſes</hi> heard the ſen<g ref="char:EOLhyphen"/>tence of death pronounced againſt himſelf, and all the <hi>Jews,</hi> which came out of <hi>Egypt,</hi> except only two, <hi>Calib</hi> and <hi>Joſhua,</hi> that all ſhould die before they came to the land which
+<pb n="2" facs="tcp:174300:4"/>they ſought, he prayeth thus for himſelf and the reſt, <hi>Teach us O Lord to number our dayes, that we may apply our hearts unto Wiſdome.</hi>
+            </p>
+            <p>That is ſéeing we muſt néeds dye, teach us to think of our death (that we may die in thy fear, to live for ever in thy favour, ſhew<g ref="char:EOLhyphen"/>ing us howthe conſideration of our mortali<g ref="char:EOLhyphen"/>ty, will make us apply our hearts to godli<g ref="char:EOLhyphen"/>neſs, therefore <hi>Moſes</hi> thinking of his death runneth to <hi>Wiſdome</hi> as a remedy againſt death, which intimates to us that the fear of God is the beginning of wiſdome, therefore we muſt come to ſome ſchoolmaſter which teacheth us like <hi>John Baptiſt</hi> what we ſhould do, that we may grow in knowledge as we grow in years.</p>
+            <p>
+               <hi>Teach me to number my days (ſaith</hi> Moſes) <hi>that I may apply my heart to Wiſdome.</hi> As a man that hath a ſet time for his task liſtens to the Clock and counts his hours, ſo we have a ſet time to ſerve God, <hi>John 9. v. 4. Work while it is day, the night cometh when no man can work.</hi>
+            </p>
+            <p>That is this life is the day wherein we ſhould work, what work we have to do the Apoſtle tells us <hi>(work out your ſalvation)</hi> this is a long task, therefore we have néed to
+<pb n="3" facs="tcp:174300:4"/>number our dayes not to loſe a minute leaſt we be benighted before our work be done <hi>(Teach me O LORD to number my days, &amp;c.</hi>
+            </p>
+            <p>That is, that we may ſtill be numbring and counting our dayes, and hours, and mi<g ref="char:EOLhyphen"/>nutes, to ſee how faſt we die, that every day and hour we may learn ſomething of wiſ<g ref="char:EOLhyphen"/>dome, unleſs we think upon death we cannot faſhion our ſelves to a godly life, though we were as well inſtructed as <hi>Moſes,</hi> this we find dayly in our ſelves, that the forgetful<g ref="char:EOLhyphen"/>neſs of death, makes us apply our hearts un<g ref="char:EOLhyphen"/>to folly and pleaſure and voluptuouſneſs, that contrary to his advice <hi>(work your ſalvati<g ref="char:EOLhyphen"/>on)</hi> we work our damnation, we are ſo far from numbring our dayes, that we do not number our wéeks, nor our months, nor our years, muchleſs number our dayes, Oh my beloved friends and Chriſtians, who ſhall he preſent at the reading of this little book? my Prayers ſhall be to the throne of Grace, <hi>That we may be ſo taught to number our dayes that we may apply our hearts to Wiſdome.</hi>
+            </p>
+            <p>To pray, and faſt, and watch, and hear, and do as becometh him which ſhall ſhortly give account of his Stewardſhip with cheer<g ref="char:EOLhyphen"/>fulneſs to his Lord and Maſter, and receive
+<pb n="4" facs="tcp:174300:5"/>that bleſſed and joyful benediction of love, <hi>Well done thou good and faithful ſervant en<g ref="char:EOLhyphen"/>ter into the joy of thy Lord:</hi> this ſhall be the reward of thoſe that apply their hearts to wisdome.</p>
+            <p>There is no ſuch enemy to Repentance as to think we have time enough hereafter, which makes a man ſay when any good mo<g ref="char:EOLhyphen"/>tion cometh into his mind. I may ſtay yet a little longer and defer my Repentance, for I am Young in my Youth, if I do take a little pleaſure, why God is a merciful God, and he will pardon my ſins if I truly repent, I may ſtay yet like the ſluggard, who turns upon his Bed like a Door upon the Hin<g ref="char:EOLhyphen"/>ges and ſaith as in <hi>Prov. 6. v. 10. Yet a lit<g ref="char:EOLhyphen"/>tle more ſleep, a little more ſlumber, I may lye ſtill a while,</hi> this is not to number our days, but to ſtretch our days, &amp; to make them ſéem more then they are, and they that do ſo never apply their hearts to wisdome, ſo you ſée what a preſervative <hi>Moſes</hi> uſed againſt ſin and pleaſure.</p>
+            <p>He kept a Kalendar as it were of his days which called upon him and ſaid, <hi>be diligent for thou haſt but a ſhort time here.</hi> Five things I note in theſe words.</p>
+            <p>Firſt, that Death is the Haven of every
+<pb n="5" facs="tcp:174300:5"/>man and woman whether they ſit in the throne, or live in a Cottage, at laſt we muſt knock at Deaths door as all our fathers have done before us.</p>
+            <p>Secondly, that man's time is ſet and his bounds appointed, beyond which he cannot paſs.</p>
+            <p>Thirdly, that our dayes are but few as though we were ſent into the world but to ſée it: ſhewing that it is an eaſie thing for a man to number his dayes, they be ſo few.</p>
+            <p>Fourthly, the aptneſs of man to forget Death, as we have often experienced, when one man ſhall ſay to another, do you remem<g ref="char:EOLhyphen"/>ber where you are to go to morrow, the other ſhall anſwer again and ſay, I proteſt I thought no more of it then of my Dying day, and therefore <hi>Moſes</hi> prayeth to the Lord to teach him <hi>to number his dayes.</hi>
+            </p>
+            <p>Fifthly and Laſtly, that to remember how ſhort a time we have to live, we may ap<g ref="char:EOLhyphen"/>ply our hearts to that which is good, as every one had a day to come into this world: ſo ſurely they ſhall have a day to go out of this world. When <hi>Moſes</hi> had ſpoken of ſome vvhich lived ſeven hundred years and another that lived eight hundred years, and
+<pb n="6" facs="tcp:174300:6"/>another that lived nine hundred years, at laſt comes in <hi>Mortuus eſt,</hi> he died.</p>
+            <p>Therefore the Apoſtle ſaith, <hi>we have here no abiding City, but we look for one to come,</hi> as our Saviour ſaith, <hi>My Kingdome is not of this world,</hi> ſo we may ſay, our dwel<g ref="char:EOLhyphen"/>ling is not of this world, but the ſoul ſoareth upward whence ſhe came, and the body ſtoop<g ref="char:EOLhyphen"/>eth downward whence it came, our taber<g ref="char:EOLhyphen"/>nacles are made to remove, every man is a tenant at will, and there is nothing ſure in this life but death.</p>
+            <p>When <hi>Adam</hi> and <hi>Eve</hi> were thruſt out of Paradice by reaſon of their ſins, God cloa<g ref="char:EOLhyphen"/>thed them with the skins of dead Beaſts, which ſhewed them that now they were cloa<g ref="char:EOLhyphen"/>thed with Death, and that as the beaſts were dead, whoſe skins they wore (ſo they ſhould dye alſo) As <hi>Job. 17. verſe 14. I ſhall ſay to corruption thou art my father, and ſay to the Worm, thou art my Mother, and Siſter.</hi> Which made <hi>Solomon</hi> to ſay, <hi>that he ſhould go the way of all the Earth.</hi> To which <hi>Iſaiah</hi> bears witneſs, <hi>crying all fleſh is graſs, chap. 49. verſ. 6. that is, it falleth, and is cut down like graſs.</hi> In this world we live and muſt dye. In Heaven we ſhall live and not dye; before Sin nothing could
+<pb n="7" facs="tcp:174300:6"/>change us, and now every thing doth change us.</p>
+            <p>Firſt, we war old, then we war Dry, then we wax weak, then we wax ſick, ſo we melt away by Drops at laſt: as we carryed others, ſo others carry us to our Graves, that is the laſt bed that every man ſhall ſleep in. We may well be called Earth<g ref="char:EOLhyphen"/>en Veſſels, for we are ſoon broken, we are like the Ice that thaweth a great deal ſooner then it froze, ſo theſe little worlds, our Earthly tabernacles are deſtroyed firſt, and at laſt the great world ſhall be deſtroyed too and all in it, which was made for us ſhall pe<g ref="char:EOLhyphen"/>riſh with us, what do you learn when you think of this (but that which <hi>Moſes</hi> ſaith) <hi>apply your hearts to wiſdome.</hi>
+            </p>
+            <p>The ſecond note is, that the time of man is ſet, and his bounds appointed that be cannot paſs, and <hi>Jeremiah</hi> ſaith, <hi>they could not ſtand becauſe the day of their de<g ref="char:EOLhyphen"/>ſtruction is come,</hi> as all the promiſes of God are conditional to take place if we repent not.</p>
+            <p>The third point is, that our life is but a ſhort life, as many little ſculls, are in <hi>Golgotha</hi> as great ſculls, that is as many young Children go to their grave, as Old
+<pb n="8" facs="tcp:174300:7"/>people the Parents mourn for the death of their Children as often as Children for the death of their Parents: What a great change is this, that in Fourſcore years, no one of us here that are hearers of this little Book ſhall be left alive, but others ſhall fill our Rooms, and tread upon us as we tread upon others now: Man dyeth when he thinks his Sun is a riſing: before his Eye is ſatisfyed with ſéeing, his Ear with hear<g ref="char:EOLhyphen"/>ing, or his heart with luſting, Death knocks at his door, and will not give him one mi<g ref="char:EOLhyphen"/>nutes reſpite to meditate an excuſe before he comes to judgement: which ſhews the Shortneſs and Vncertainty of Man's Life.</p>
+            <p>This was the Arethmatique of Holy<g ref="char:EOLhyphen"/>men in former times to reckon their dayes, ſo that their time might ſeem ſhort, to make them apply their Hearts to <hi>Wiſ<g ref="char:EOLhyphen"/>dome.</hi>
+            </p>
+            <p>
+               <hi>David</hi> numbred his days by a meaſure, <hi>My life ſaith he is like a ſpan long, Pſal. 39. v. 5.</hi> when he meaſured his life he took not a Pole or an Ell, nor a yard to meaſure it by, but a ſhort meaſure, his ſhort Span, <hi>My life is like a ſpan long:</hi> As ſome came into the Vineyard in the Borning, ſome at Noon,
+<pb n="9" facs="tcp:174300:7"/>and ſome at night, ſo ſome go out of this Vineyard in the Borning, ſome at Noon, and ſome at night, ſo that a pleaſant life may be compared but to a glorious day, and a ſorrowful life to a cloudy day, and a long life to a Summers day, and a ſhort life to a winters day; now why hath God appointed ſuch a ſhort time to man in the world, ſurely leaſt he ſhould defer to do good as his man<g ref="char:EOLhyphen"/>ner is, for though his life be ſhort, yet he thinks he hath time enough to repent, <hi>The Prophet ſaith our years are but threeſcore and ten,</hi> as though they were but a little time to live, if our life were but a year, yet a Year is more by fifty one weeks then we uſe, all the reſt be loſt, for we defer our repen<g ref="char:EOLhyphen"/>tance till the laſt wéek of the year: it is ſaid of the Devil he is buſie, becauſe his time is ſhort, but the time of man is ſhorter; and therefore Chriſt ſaith, <hi>in this thy day,</hi> as though no day could be called thy day, but this day, and therefore all that thou haſt to do, thou muſt do this day. Conſider this all ye which travel towards Heaven, had we not need to make haſt, which muſt go ſuch a long journey in ſo ſhort a time, how can he chuſe but run which remembreth that
+<pb n="10" facs="tcp:174300:8"/>every day runneth away with his life, how often doth the ſcripture put us in mind of our death, and yet we no ſooner remember it but in a very ſhort time its forgot again; even ſo it is with us, <hi>as the Fooll ſaith in his heart there is no God,</hi> ſo we ſay in our hearts there is no death, or at leaſt death will not come before we be old, of all numbers we cannot skill to number our dayes, we can number our Shéep, and our Oxen, and our Coyn, but we think that our dayes are infi<g ref="char:EOLhyphen"/>nite, and therefore we never go about to num<g ref="char:EOLhyphen"/>ber them, we can number other mens days and years, and think they will dye ere it be long, if we ſée them ſick, or ſore, or old, but we cannot number our own.</p>
+            <p>Therefore the Devil doth never teach a man to number his dayes, becauſe he gains by the forgetfulneſs of death, but the Lord which would have a man to apply his heart to <hi>Wiſdome,</hi> it is he which teacheth us to number our dayes, and therefore <hi>Moſes</hi> pray-unto him <hi>that he might apply his heart unto Wiſdome,</hi> as if he ſhould ſay, until men think upon death they never apply their hearts unto wiſdome, but buſies themſelves with worldly matters as though they were feathering a neſt that ſhould never be pulled
+<pb n="11" facs="tcp:174300:8"/>down, therefore the way to get wiſdome is <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> apply your hearts unto it, as if it were <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our Calling and Living, to which you are <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound Prentices, a man may apply his ears <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd his eyes, as many truants do their Books, and yet never prove ſchollars, but <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom that day which a man begins to apply his heart unto wiſdome, he learns more in a moneth after, then he did in a year before, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay than ever he did in his life; even as you <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee the wicked, becauſe they apply their hearts <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o wickedneſs how faſt they proceed, how <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſily and how quickly they become perfect Swearers, expert Drunkards, cunning De<g ref="char:EOLhyphen"/>ceivers.</p>
+            <p>So if we could apply our hearts as through<g ref="char:EOLhyphen"/>ly to knowledge and goodneſs, we might become like to the Apoſtle that teacheth us, therefore when <hi>Solomon</hi> ſheweth men the way how to come by <hi>Wiſdome,</hi> he ſpeaks often of the Heart, <hi>Give thy heart to wiſ<g ref="char:EOLhyphen"/>dome, let wiſdome enter into thy heart,</hi> get wiſdome, keep wiſdome, embrace wiſdom, wiſdome is like God's Daughter, that he giveth to the man that loveth her, and ſueth for her, and meaneth to ſee her at his Heart, thus we have learned how to apply Know<g ref="char:EOLhyphen"/>ledge that it may do us good, not to our ears
+<pb facs="tcp:174300:9"/>
+               <pb n="10" facs="tcp:174300:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:174300:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:174300:11"/>like them which hear Sermons only, nor to our tougues like them which make table-talk of Religion, but to our hearts that we may ſay with the Virgin, <hi>My Heart doth magni<g ref="char:EOLhyphen"/>fy the Lord,</hi> and the heart will apply it to the Ear, and to the tongue, as Chriſt ſaith, <hi>out of the abundance of the heart, the mouth ſpeaketh.</hi>
+            </p>
+            <p>The laſt point is, that the remembrance of death makes us to apply our hearts to wiſdome, <hi>Moſes</hi> commanded not a many books to a wiſe man Learned, but as <hi>David</hi> commends one book inſtead of many Medi<g ref="char:EOLhyphen"/>tations in the Law of God day and night, for the reading of many books <hi>(ſaith Solo<g ref="char:EOLhyphen"/>mon)</hi> is but wearineſs to the fleſh, therefore as though <hi>Moſes</hi> had marked what did move him moſt to ſeek after God, he prayeth that that thought may run in his mind ſtill the remembrance of death, as many benefits come unto us by death, ſo many benefits come unto us by the remembrance of death, and this is one, <hi>viz.</hi>
+            </p>
+            <p>It maketh a man to apply his Heart to wiſdome; for when he conſidereth that he hath but a ſhort time to live, he is careful to ſpend it well, like <hi>Moſes,</hi> of whom it is ſaid, that when he conſidered how he had but a ſea<g ref="char:EOLhyphen"/>ſon
+<pb n="13" facs="tcp:174300:11"/>to live, he choſe rather to ſuffer af<g ref="char:EOLhyphen"/>flictions with the Servants of God, then to injoy the pleaſure of ſin for a ſeaſon, this is that which makes the old Men Faſt and watch, &amp; prepare themſelves more then young Men, becauſe they think themſelves nearer the Grave, like old <hi>Iſaac</hi> which when he was blind for Age, ſaid unto <hi>Eſau, Behold I am now old and know not the day of my death,</hi> that is, becauſe I am old I look to dye ſhort<g ref="char:EOLhyphen"/>ly, and therefore as <hi>Iſaiah</hi> taught <hi>Ezechias</hi> to ſet all things in order before he died, ſo he called his eldeſt Son to whom he thought his Inheritance belonged that he might bleſs him before he dyed, this Wiſdom the Fa<g ref="char:EOLhyphen"/>thers called the wisdom of the Croſs which we call the beſt, becauſe it was the deareſt bought, it is hard for a man to think of a ſhort life; and think evil, or to think of a long life, and think well, therefore when <hi>Jeremy</hi> had numbred all the Calamities and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ins of the <hi>Jews,</hi> at laſt he imputed all to his <hi>Lamentations</hi> the 1. and the 9. <hi>She re<g ref="char:EOLhyphen"/>membred not her end.</hi> So if I may judg why Natural Men care for nothing but their Pomp, why great men care for nothing but
+<pb n="14" facs="tcp:174300:12"/>their Honor and Dignity, why covetous Worldlings care for nothing but their gain, why voluptious Epicures care for nothing but their pleaſure; I may ſay with <hi>Jeremy, (they remember not their end)</hi> we never co<g ref="char:EOLhyphen"/>vet the ſame things living and dying, there<g ref="char:EOLhyphen"/>fore when <hi>Solomon</hi> had ſpoken of all the Va<g ref="char:EOLhyphen"/>nities of men, at laſt he tells them all, <hi>Ec<g ref="char:EOLhyphen"/>cleſ. 11. v. 9. Remember that for all theſe things thou ſhalt come to judgment,</hi> as if he ſhould ſay, Men would never ſpeak as they ſpeak, nor do as they do, if they did but think their ſpeeches and deeds ſhould come to Iudgment, as the Bird guideth her flight with her Trian, ſo the Life of Man is beſt directed with a continual recourſe unto his end.</p>
+            <p>Which is in the numbring of our days, let us conſider what a Harveſt we have loſt which happyly before this time we never prayed with <hi>Moſes</hi> that the Lord would teach us to number our days, ſo that we may apply our hearts to wisdom, but as the old year went, and a new year came, ſo we thought that a new year would follow
+<pb n="15" facs="tcp:174300:12"/>that, and ſo we think that another will fol<g ref="char:EOLhyphen"/>low this, and ſo they thought that are dead long ago.</p>
+            <p>This is not to number our days, but to provoke God to ſhorten our days, there are but few here but have ſeen twenty years, novv if we had but every year learned one Vertue ſince vve were born, vve might by this time have béen like Saints among Men, but the time is yet to come, when vve ſhall apply our hearts to Wisdom, to Riches and Pleaſure we have applyed our hearts, and our eyes and our ears, and our hands too, but to Wisdom vve have not applyed our hearts.</p>
+            <p>There be many cauſes, but there ſhould be no cauſe if vve had numbred our days, for ſurely if a man could perſuade him<g ref="char:EOLhyphen"/>ſelf that this is the laſt day, as it may be he vvould not defer his Repentance until to morrovv, if he could think that this is his laſt Meal that ever he ſhould eat, he vvould not ſurfeit of it, if he could believe that the vvords vvhich he doth ſpeak to day,
+<pb n="16" facs="tcp:174300:13"/>ſhould be the laſt vvords that ever he ſhould ſpeak, he vvould not offend vvith his tongue, if he could be perſuaded that this Sermon ſhould be the laſt Sermon that ever he ſhould hear, he vvould hear it better then ever he heard any yet, whilſt breach is in the body, the heart may apply it ſelf and the eye may apply it ſelf, and the ear may apply itſelf, and the hand may apply it ſelf. Work while it is light, I can but admoniſh you with words, as <hi>John</hi> baptized with Water, as <hi>Moſes</hi> prayed the Lord to number his days, ſo you muſt pray the Lord to teach you to number your Days, it may be that thou hall but twenty years to ſerve God, wilt thou not live twenty years like a Chriſti<g ref="char:EOLhyphen"/>an, that thou maill live a thouſand years like an Angel, it may be that thou haſt but ten years to ſerve him, wilt not thou ſerve ten years for Heaven vvhich vvould ſerve twenty years for a Farm, it may be that thou haſt but five years vvell to redeem all thy former miſpent years vvhereby to gain an Eternal being in Heaven, yet God doth knovv vvhether many here preſent or any here preſent have ſo long to live, to
+<pb n="17" facs="tcp:174300:13"/>repent for all the years vve have ſpent in <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n, if thou wer't born to day, thy journey is not an hundred years, if thou be a Man half thy time is ſpent already, if thou be an old Man, then thou art drawing to thy Inn, and thy Race is but a Breach, therefore as Chriſt ſaid to his Diſciples, when he found them ſléeping, <hi>(Could ye not Watch one hour)</hi> ſo I ſay to my ſelf and to you all here preſent, can vve not pray, can vve not ſuf<g ref="char:EOLhyphen"/>fer a little vvhile, he vvhich is tired can tra<g ref="char:EOLhyphen"/>vel a little vvay, a little further, one ſtep more for a Kingdom, for this God vvould not have Men knovv vvhen they ſhall dye (be<g ref="char:EOLhyphen"/>cauſe they ſhould make Ready at all times having no more certainty of one hour then another, therefore our Savior ſaith, <hi>Watch, becauſe ye know not when the Lord will come to take you, and judg you.</hi>
+            </p>
+            <p>Happy are they vvhich hear the Word and keep it, thus you ſée that Death is the laſt upon Earth, that the time of Man is ſet, that his Race is ſhort, that he thinks not of it, that if he did remember it, it mould make him apply his mind to Good
+<pb n="18" facs="tcp:174300:14"/>as he doth to Evil. and novv I end as I began.</p>
+            <p>
+               <hi>The Lord teach us to number our days, that we may apply our hearts to Wiſdom. Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:174300:14"/>
+            <head>A Catalogue of Books, ſold by <hi>John Clarke</hi> at the <hi>Harp</hi> and <hi>Bible</hi> in <hi>VVeſt-Smith-Field.</hi>
+            </head>
+            <p>A Short view of Gods Judgments exe<g ref="char:EOLhyphen"/>cuted upon open and notorious offen<g ref="char:EOLhyphen"/>dors.</p>
+            <p n="2">2. Chriſts voice to <hi>England,</hi> cal<g ref="char:EOLhyphen"/>ling for Repentance.</p>
+            <p n="3">3. God's Juſtice againſt Murther, or the bloody Apprentice Executed.</p>
+            <p n="4">4. Gods Alarum to all drowſie and ſecure Sinners.</p>
+            <p n="5">5. The <hi>Hartford-ſhire</hi> Wonder.</p>
+            <p n="6">6. The Godly Mans Requeſt.</p>
+            <p n="7">7. The Young Mans Monitor, or a word of Advice to Youth.</p>
+            <p>Theſe ſeven Books are of ſingular uſe to be read and practiced in theſe ſad and diſmal times;</p>
+         </div>
+      </back>
+   </text>
+</TEI>
